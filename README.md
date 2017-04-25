@@ -11,6 +11,8 @@
 
 HTSL translation for [aright lexicon](https://github.com/nomocas/aright-lexicon).
 
+Work in progress.
+
 ## Licence
 
 The [MIT](http://opensource.org/licenses/MIT) License
