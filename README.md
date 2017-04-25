@@ -1,14 +1,15 @@
-# aright-to-html
+# aright-to-htsl
 
-[![Travis branch](https://img.shields.io/travis/nomocas/aright-to-html/master.svg)](https://travis-ci.org/nomocas/aright-to-html)
-[![bitHound Overall Score](https://www.bithound.io/github/nomocas/aright-to-html/badges/score.svg)](https://www.bithound.io/github/nomocas/aright-to-html)
-[![npm](https://img.shields.io/npm/v/aright-to-html.svg)](https://www.npmjs.com/package/aright-to-html)
-[![npm-downloads](https://img.shields.io/npm/dm/aright-to-html.svg)](https://npm-stat.com/charts.html?package=aright-to-html)
-[![licence](https://img.shields.io/npm/l/aright-to-html.svg)](https://spdx.org/licenses/MIT)
-[![dependecies](https://david-dm.org/nomocas/aright-to-html.svg)](https://david-dm.org/)
-[![dev-dependencies](https://img.shields.io/david/dev/nomocas/aright-to-html.svg)](https://david-dm.org/)
+[![Travis branch](https://img.shields.io/travis/nomocas/aright-to-htsl/master.svg)](https://travis-ci.org/nomocas/aright-to-htsl)
+[![bitHound Overall Score](https://www.bithound.io/github/nomocas/aright-to-htsl/badges/score.svg)](https://www.bithound.io/github/nomocas/aright-to-htsl)
+[![npm](https://img.shields.io/npm/v/aright-to-htsl.svg)](https://www.npmjs.com/package/aright-to-htsl)
+[![npm-downloads](https://img.shields.io/npm/dm/aright-to-htsl.svg)](https://npm-stat.com/charts.html?package=aright-to-htsl)
+[![licence](https://img.shields.io/npm/l/aright-to-htsl.svg)](https://spdx.org/licenses/MIT)
+[![dependecies](https://david-dm.org/nomocas/aright-to-htsl.svg)](https://david-dm.org/)
+[![dev-dependencies](https://img.shields.io/david/dev/nomocas/aright-to-htsl.svg)](https://david-dm.org/)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 
+HTSL translation for [aright lexicon](https://github.com/nomocas/aright-lexicon).
 
 ## Licence
 
