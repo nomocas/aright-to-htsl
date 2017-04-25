@@ -1,8 +1,6 @@
 import htmlLexicon from 'htsl-lexicon';
 
-const arightHTML = htmlLexicon.createDialect('html:aright');
-
-arightHTML
+export default  htmlLexicon.createDialect('htsl:aright')
 	.addCompunds((h) => {
 		return {
 			is(type) {
@@ -74,6 +72,3 @@ arightHTML
 		});
 		return methods;
 	});
-
-export default arightHTML;
-
